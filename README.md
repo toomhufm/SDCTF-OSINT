@@ -9,6 +9,6 @@ mann5549
 
 # Solution 
 
-First I used sherlock to find social media accounts with mann5549 username and found this twitter 
+First I used sherlock to find social media accounts with mann5549 username and found this twitter account
 
-![Twitter Account] ( https://twitter.com/mann5549 ) 
+[Twitter Account](https://twitter.com/mann5549) 
