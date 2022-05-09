@@ -12,3 +12,10 @@ mann5549
 First I used sherlock to find social media accounts with mann5549 username and found this twitter account
 
 [Twitter Account](https://twitter.com/mann5549) 
+
+![Twitter](https://raw.githubusercontent.com/toomhufm/SDCTF-OSINT/main/img/mannweb.png)
+
+Go to his website : https://mann.codes
+
+
+
